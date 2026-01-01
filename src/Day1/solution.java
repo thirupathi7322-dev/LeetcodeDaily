@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Arrays;
 
-public class solution {
+public class DAY1 {
     static void main(String[] args) {
 
 
