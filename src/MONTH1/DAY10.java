@@ -16,6 +16,6 @@ class Solution {
 
             }
         }
-        return -dp[0][0] * 2 + total;
+        return -dp[0][0] * 2 + total; 
     }
 }
